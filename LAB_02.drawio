@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-25T09:35:45.664Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="xJqSB-wlxavebvZC8E65" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-25T09:39:05.029Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="qy0yBi27iMhzbUXE-mbZ" version="21.7.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1004" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -162,6 +162,21 @@
         </mxCell>
         <mxCell id="LLR3LCLThYSmj2P4INWz-44" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="395" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LLR3LCLThYSmj2P4INWz-45" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="400" as="sourcePoint" />
+            <mxPoint x="640" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LLR3LCLThYSmj2P4INWz-46" value="A2&lt;br&gt;Начало" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LLR3LCLThYSmj2P4INWz-47" value="i = 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LLR3LCLThYSmj2P4INWz-48" value="i &amp;lt; n - 2 &amp;amp;&amp;amp; &lt;br&gt;ans == -1" style="rhombus;whiteSpace=wrap;html=1;spacingLeft=10;spacingRight=10;spacingTop=3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="540" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
